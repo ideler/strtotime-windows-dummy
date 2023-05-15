@@ -9,5 +9,5 @@ setup(
     author="Ideler IT-Service GmbH",
     author_email="hosting@ideler.de",
     description="Dummy strtotime module for windows",
-    py_modules=["strtodatetime"],
+    py_modules=["strtotime"],
 )
